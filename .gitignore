@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# PyCharm
+.idea/
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.json
+
+# Model weights
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.pkl
+
+# Figures
+*.png
+*.jpg
+
+# Jupyter
+.ipynb_checkpoints/
